@@ -6,5 +6,9 @@ Authors: Martin Hochstrasser, Christoph Müllner
 
 ## TODOs
 
-* [ ] Add ROC curves
-* [ ] Split data set into training and test data
+* [x] Add ROC curves
+* [x] Split data set into training and test data
+* [x] Test with other networks
+  * DenseNet201
+  * InceptionV3
+
